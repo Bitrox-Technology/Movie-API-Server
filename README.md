@@ -25,7 +25,7 @@ A simple Go server that provides weather information using the [OpenWeatherMap A
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-api-server.git
+git clone https://github.com/Bitrox-Technology/weather-api-server.git
 cd weather-api-server
 
 Create a appConfig file
